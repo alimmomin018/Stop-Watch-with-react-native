@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "minutes-seconds-milliseconds": "^1.0.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.6.3",
     "react-native": "0.57.8"
   },
